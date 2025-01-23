@@ -1,6 +1,6 @@
 # GTK# Layer Shell
 
-A feature-incompelete port of GTK LS for C#, compatible with [GtkSharp](https://github.com/GtkSharp/GtkSharp). Only GTK3 and Wayland will be supported (at least until GTK3 is EOL)
+A feature-incompelete port of [GTK LS](https://github.com/wmww/gtk-layer-shell/) for C#, compatible with [GtkSharp](https://github.com/GtkSharp/GtkSharp). Only GTK3 and Wayland will be supported (at least until GTK3 is EOL)
 
 **Dependencies**: GTK3, GTK Layer Shell, Wayland
 
